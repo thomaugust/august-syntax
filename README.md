@@ -1,10 +1,10 @@
-# Blessed Dark Syntax
+# August Syntax
 
-A syntax theme based on @simurai's [Duotone Dark Syntax](https://github.com/simurai/duotone-dark-syntax).
+A syntax theme based on @simurai's [Duotone Dark Syntax](https://github.com/simurai/duotone-dark-syntax) and @jdsimcoe's [Blessed Dark Syntax](https://github.com/jdsimcoe/blessed-dark-syntax.git).
 
-Blessed Dark uses only 2 hues and 7 shades in total. It __tones down__ less important parts (like punctuation and brackets) and highlights only the __important__ ones. This leads to a more calm color scheme, but still lets you find the stuff you're looking for.
+August is minimal and focuses on highlighting important stuff in cool colours. I based the colour scheme on ![this wallpaper](http://i.imgur.com/IhTDfzt.jpg), and I use it in conjunction with One Dark syntax in atom.    
 
-![Blessed Dark](https://cloud.githubusercontent.com/assets/275617/9555745/2f2f9260-4d84-11e5-9c5d-5f83ec68ed2c.png)
+![August](http://i.imgur.com/4X1snor.png)
 
 
 ### Currently tested and optimized for these languages:
